@@ -228,7 +228,7 @@ function DashboardNavbar() {
             aria-expanded="false"
           >
             <span className="mr-2 d-none d-lg-inline text-light-600 small">
-              Gowtham{" "}
+              Kavin{" "}
             </span>
 
             <img
